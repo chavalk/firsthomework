@@ -12,7 +12,7 @@ The project allowed me to experience going through the process of refactoring an
 
 ![refactor](./assets/images/refactor.gif)
 
-## Why is the project usedul
+## Why is the project useful
 
 The project allowed me to learn what it's like to refactor an existing codebase.
 
