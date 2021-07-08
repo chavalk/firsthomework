@@ -1,19 +1,40 @@
-# firsthomework
+# Code Refactor
 
-## Code Refactor Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project was primarily refactoring both the HTML and the CSS that was provided. The very first thing I looked at was accessibility. None of the images had alt tags included so that was added to all the images. Some HTML elements were replaced by semantic tags in order to make accessibility easier.
+## Description
 
-One of the links in the nav menu was brokern so an ID was added to the section the link was supposed to move the page to. There was also a lot of opportunity for consolidation within the CSS style sheet. Any elements that seemed repetitive were consolidated into one. 
+A codebase to be refactored in order for it to work properly and to make it accessible.
 
-Comments were also added to both the HTML and the CSS to make sure any user would be able to easily follow and identify how everything worked together. The order of some of the references in the CSS sheet were also rearranged to make sure the sheet follows the logical order followed in the HTML.
+## What the project does
 
-Below is a screenshot of the image provided for the project to give an example of the end result that was requested:
+The project allowed me to experience going through the process of refactoring an exisitng codebase. Below is a GIF showing the application after being refactored.
 
-![code refactor demo](./assets/images/01-html-css-git-homework-demo.png)
+![refactor](./assets/images/refactor.gif)
 
-## URL 
+## Why is the project usedul
 
-Here is the link to the live website:
+The project allowed me to learn what it's like to refactor an existing codebase.
+
+## How can users get started with this project
+
+Simply navigate to the deployed version of the application listed below to see the refactored app in action.
 
 https://chavalk.github.io/firsthomework/
+
+## What technologies were used with this project
+
+* HTML
+* CSS
+
+## Where can users get help with your project
+
+My GitHub username is: chavalk
+
+Link: https://github.com/chavalk
+
+If you have additional questions, feel free to reach me at chavalk@hotmail.com.
+
+## Who maintains and contributes to the project
+
+Currently I'm the only person maintaining and contributing to the project.
